@@ -24,8 +24,8 @@
     $ cd /var/www/
     $ sss webfolder
     $ cd /usr/local/lib/
-    $ s locallib
-    $ l
+    $ sss locallib
+    $ lll
     $ ggg web<tab>
     $ ggg webfolder
 
